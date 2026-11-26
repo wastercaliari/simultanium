@@ -1,0 +1,17 @@
+{
+  "cli_path": "%APPDATA%\\Local\\agy\\bin\\agy.exe",
+  "default_model": "gemini-4-hydrogen-high",
+  "available_models": [
+    "gemini-4-hydrogen-high",
+    "gemini-4-hydrogen-low",
+    "gemini-4-hydrogen-medium",
+    "gemini-4-hydrogen-xhigh",
+    "claude-sonnet-4-6",
+    "claude-opus-4-6-thinking",
+    "gpt-oss-120b-medium"
+  ],
+  "login_method": "webridge_or_cli",
+  "notes": "Cota PRO do Antigravity é separada da cota AI Studio. Use agy.exe para logar e usar os modelos PRO.",
+  "last_updated": "2026-11-26",
+  "user_account": "SUA_CONTA_AQUI"
+}
