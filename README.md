@@ -60,15 +60,15 @@ O projeto tenta **três métodos** automaticamente em ordem:
    - ✅ Sua conta tem cota disponível na web
 
 3. **Antigravity CLI** (`antigravity_cli`)
-   - CLI `agy` instalado em `%APPDATA%\Local\agy\bin\`
+   - CLI `agy` instalado em `%APPDATA%\\Local\\agy\\bin\\`
    - Modelos: `gemini-4-hydrogen-high`, `claude-sonnet-4-6`, etc.
    - ✅ Cota **separada** do seu plano PRO
 
 ## 📋 Após o Clone
 
-1. **Executar** `.\run_setup.bat`
+1. **Executar** `.\\run_setup.bat`
 2. **Etapa 1**: Informar a chave AI Studio (ou variável de ambiente `GEMINI_API_KEYS`)
-3. **Etapa 2**: Informar conta Antigravity (`wasterlucas.ia@gmail.com` ou outra)
+3. **Etapa 2**: Informar conta Antigravity (`SUA_CONTA_AQUI` ou outra)
 4. **Pronto!** O sistema mapeará automaticamente todos os modelos disponíveis
 
 ## 💡 Principais Lições
@@ -80,13 +80,7 @@ O projeto tenta **três métodos** automaticamente em ordem:
 
 ## 📞 Suporte
 
-- Problemas com instalação: abuse o `.\run_setup.bat`
-- Dúvidas de modelo: consulte o `mapa_modelos.json` gerado após o setup
-- Conta Antigravity: Docs em `https://antigravity.google/cli/install.sh`
-
-## 📞 Suporte
-
-- Problemas com instalação: abuse o `.\run_setup.bat`
+- Problemas com instalação: abuse do `.\\run_setup.bat`
 - Dúvidas de modelo: consulte o `mapa_modelos.json` gerado após o setup
 - Conta Antigravity: Docs em `https://antigravity.google/cli/install.sh`
 
